@@ -6,11 +6,11 @@ Upon running ./inheritance, your program should adhere to the rules described in
 
 For example, in the example below, the child in Generation 0 received an O allele from both Generation 1 parents. The first parent received an A from the first grandparent and a O from the second grandparent. Similarly, the second parent received an O and a B from their grandparents.
 
-$ ./inheritance
-Child (Generation 0): blood type OO
-    Parent (Generation 1): blood type AO
-        Grandparent (Generation 2): blood type OA
-        Grandparent (Generation 2): blood type BO
-    Parent (Generation 1): blood type OB
-        Grandparent (Generation 2): blood type AO
-        Grandparent (Generation 2): blood type BO
+$ ./inheritance<br>
+Child (Generation 0): blood type OO<br>
+    Parent (Generation 1): blood type AO<br>
+        Grandparent (Generation 2): blood type OA<br>
+        Grandparent (Generation 2): blood type BO<br>
+    Parent (Generation 1): blood type OB<br>
+        Grandparent (Generation 2): blood type AO<br>
+        Grandparent (Generation 2): blood type BO<br>
